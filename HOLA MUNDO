@@ -9,4 +9,4 @@ IDBAU=
  HOLA MUNDO QUE TAL
 
 
-Sistem.Out.PrintLn("Hola, este es nuestro primer repositorio en GitHub")
+System.Out.PrintLn("Hola, este es nuestro primer repositorio en GitHub")
