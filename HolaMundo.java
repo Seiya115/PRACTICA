@@ -10,7 +10,9 @@ public class HolaMundo {
 
         System.out.println("Hello javier!");
 
-        
+        //agregue un ciclo for en java 
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("Número: " + i);
         
     }
 }
